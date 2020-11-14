@@ -1539,6 +1539,17 @@ header .logo a {
  * Intro
  * --------------------------------------------------------------- 
  */
+ @media only screen and (min-width: 576px) {
+  /* CSS Rules Here */
+  .about-content p {
+    margin-bottom: 9.2rem;
+  }
+  .intro-social-2 li {
+    margin-left: 3.5rem;
+  }
+
+
+}
 @media only screen and (max-width: 1024px) {
   .intro-content h1 {
     font-size: 7.6rem;
