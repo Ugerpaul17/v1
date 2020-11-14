@@ -1549,6 +1549,12 @@ header .logo a {
   .intro-social li {
     margin: 0 15px;
   }
+  .intro-social-2 {
+    font-size: 3rem;
+  }
+  .intro-social-2  li{
+    bottom: 0.8rem;
+  }
 }
 @media only screen and (max-width: 768px) {
   #intro {
@@ -1564,6 +1570,9 @@ header .logo a {
     font-size: 1.3rem;
   }
   .intro-social {
+    font-size: 2.5rem;
+  }
+  .intro-social-2 {
     font-size: 2.5rem;
   }
   .intro-social li {
@@ -1594,6 +1603,9 @@ header .logo a {
     display: none !important;
   }
   .intro-social {
+    font-size: 2.4rem;
+  }
+  .intro-social-2 {
     font-size: 2.4rem;
   }
 }
