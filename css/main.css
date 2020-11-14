@@ -1543,6 +1543,9 @@ header .logo a {
   .intro-content h1 {
     font-size: 7.6rem;
   }
+  .about-content p {
+    margin-bottom: 9.2rem;
+  }
   .intro-social {
     font-size: 3rem;
   }
@@ -1552,8 +1555,8 @@ header .logo a {
   .intro-social-2 {
     font-size: 3rem;
   }
-  .intro-social-2  li{
-    bottom: 0.8rem;
+  .intro-social-2 li {
+    margin-left: 3.5rem;
   }
 }
 @media only screen and (max-width: 768px) {
